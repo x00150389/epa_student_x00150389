@@ -1,0 +1,34 @@
+ 14  git clone https://github.com/x00150389/epa_student_x00150389.git
+   15  ls l
+   16  ls
+   17  cd epa_student_x00150389/
+   18  ls
+   19  gedit
+   20  ls
+   21  cat cpu_count.sh 
+   22  ls -l
+   23  chmod 766 cpu_count.sh 
+   24  ls -l
+   25  ./cpu_count.sh 
+   26  ./cpu_count.sh  2
+   27  ./cpu_count.sh 2
+   28  gedit cpu_count.sh 
+   29  ls
+   30  cat cpu_count.sh 
+   31  gedit cpu_count.sh 
+   32  ./cpu_count.sh 
+   33  cat cpu_count.sh 
+   34  gedit cpu_count.sh 
+   35  ./cpu_count.sh 
+   36  gedit cpu_count.sh 
+   37  vim diary.sh
+   38  gedit
+   39  gedit diary.sh
+   40  chmod 766 diary.sh 
+   41  ./diary.sh 
+   42  cat diary.sh 
+   43  gedit diary.sh
+   44  git add diary.sh 
+   45  git commit diary.sh 
+   46  git push
+   47
